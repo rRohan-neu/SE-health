@@ -6,14 +6,14 @@
 Participation is voluntary. Explain the purpose, accountable organization, data collected, intended uses, disclosures, retention period, access controls, withdrawal process and privacy contact. Do not include employee names, diagnoses, care-recipient identities or personal addresses.
 
 ## Questions
-1. Which industry best describes your organization? Provide NAICS code if known.
+1. Which industry best describes your organization?
 2. Approximately how many employees does the organization employ?
-3. What percentage of employees are aged 55 or older? (Optional; allow ranges / don't know.)
+3. What percentage of employees are aged 55 or older? 
 4. What percentage of employees would be eligible under the proposed benefit rules?
-5. What percentage are based in rural or remote communities? Define the geography.
+5. What percentage are based in rural or remote communities? 
 6. What percentage work shifts outside conventional weekday hours?
-7. If available, what is the annual absence rate or days lost per FTE? State period and definition.
-8. Which municipalities or postal-code forward sortation areas contain worksites? Worksite geography only.
+7. If available, what is the annual absence rate or days lost per FTE? 
+8. Which municipalities or postal-code forward sortation areas contain worksites? 
 9. What barriers may affect awareness, access, scheduling or use?
 10. Would the organization consider a time-limited pilot? Describe decision process and timing.
 
