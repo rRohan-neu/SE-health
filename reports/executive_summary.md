@@ -1,4 +1,4 @@
-# Executive research brief (draft)
+# Executive research brief
 
 ## Decision
 Prioritize employer conversations for an initial SE Bridge pilot while matching demand to actual provider capacity.
